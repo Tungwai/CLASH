@@ -85,6 +85,9 @@ DOMAIN-SUFFIX,sg1.jmsooo.com
 DOMAIN-SUFFIX,sg2.jmsooo.com
 DOMAIN-SUFFIX,play.charontv.com
 DOMAIN-SUFFIX,emby.misakaf.xyz
+DOMAIN-SUFFIX,authapi2.f666666.xyz
+DOMAIN-SUFFIX,appapi.svicloud.net
+DOMAIN-SUFFIX,authapi1.f666666.xyz
 DOMAIN-SUFFIX,185.197.194.5
 IP-CIDR,161.97.148.156/24,no-resolve
 DOMAIN-SUFFIX,emby.cristiamo.top
