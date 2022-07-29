@@ -91,3 +91,12 @@ DOMAIN-SUFFIX,authapi1.f666666.xyz
 DOMAIN-SUFFIX,185.197.194.5
 IP-CIDR,161.97.148.156/24,no-resolve
 DOMAIN-SUFFIX,emby.cristiamo.top
+
+#PikPak
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
