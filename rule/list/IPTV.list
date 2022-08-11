@@ -3,5 +3,5 @@ DOMAIN-SUFFIX,weixingdianshiptv.com
 DOMAIN-SUFFIX,kamlcompany.com
 DOMAIN-SUFFIX,hellotvvod.com
 DOMAIN-SUFFIX,2456788.com
-DOMAIN,147.135.39.171
+IP-CIDR,147.135.39.0/24,no-resolve
 DOMAIN-KEYWORD,hellotvvod
