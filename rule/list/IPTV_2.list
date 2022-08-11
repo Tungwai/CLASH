@@ -1,0 +1,7 @@
+#晴天TV
+DOMAIN-SUFFIX,weixingdianshiptv.com
+DOMAIN-SUFFIX,kamlcompany.com
+DOMAIN-SUFFIX,hellotvvod.com
+DOMAIN-SUFFIX,2456788.com
+IP-CIDR,147.135.39.0/24,no-resolve
+DOMAIN-KEYWORD,hellotvvod
