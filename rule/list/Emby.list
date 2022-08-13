@@ -97,6 +97,7 @@ IP-CIDR,161.97.148.156/24,no-resolve
 DOMAIN-SUFFIX,cristiamo.top
 DOMAIN-KEYWORD,charontv
 DOMAIN-KEYWORD,misakaf
+DOMAIN-KEYWORD,emby
 
 #PikPak
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
