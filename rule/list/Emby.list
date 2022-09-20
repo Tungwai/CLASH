@@ -1,6 +1,3 @@
-#EMBY
-DOMAIN-KEYWORD,emby
-
 #pornemby
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-KEYWORD,pornemby
@@ -52,3 +49,6 @@ DOMAIN-SUFFIX,aaa.ax
 
 #MJJ
 DOMAIN-SUFFIX,mjjemby.org
+
+#EMBY
+DOMAIN-KEYWORD,emby
