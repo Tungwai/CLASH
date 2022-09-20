@@ -7,6 +7,10 @@ DOMAIN-KEYWORD,pornemby
 
 #BLACK Mountain
 DOMAIN-SUFFIX,gcx920110.com
+IP-CIDR,185.197.194.0/24,no-resolve
+
+#EMBYUN
+DOMAIN-SUFFIX,embylianmeng.com
 
 #Odyssey+
 DOMAIN-SUFFIX,odysseyplus.site
@@ -38,15 +42,10 @@ DOMAIN-KEYWORD,poloemby
 #PEACH
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-KEYWORD,embymv
+IP-CIDR,209.97.173.0/24,no-resolve
 
 #404
 DOMAIN-SUFFIX,404.sb
 
-#PikPak
-DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
-DOMAIN-SUFFIX,hub5pn.wap.sandai.net
-DOMAIN-SUFFIX,hub5pnc.sandai.net
-DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-DOMAIN-SUFFIX,hubciddata.sandai.net
-DOMAIN-KEYWORD,mypikpak
+#Misty
+DOMAIN-SUFFIX,aaa.ax
