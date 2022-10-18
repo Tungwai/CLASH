@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
 DOMAIN-SUFFIX,hubciddata.sandai.net
 DOMAIN-KEYWORD,mypikpak
 
+#plex
+DOMAIN-SUFFIX,plex.tv
+
 #pornemby
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,123emby.quest
