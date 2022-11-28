@@ -57,6 +57,7 @@ DOMAIN-KEYWORD,poloemby
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-KEYWORD,embymv
 IP-CIDR,209.97.173.0/24,no-resolve
+IP-CIDR,131.186.31.0/24,no-resolve
 
 #404
 DOMAIN-SUFFIX,404.sb
