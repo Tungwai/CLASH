@@ -78,5 +78,8 @@ IP-CIDR,125.124.254.0/24,no-resolve
 IP-CIDR,112.30.145.0/24,no-resolve
 IP-CIDR,209.141.35.0/24,no-resolve
 
+#NEBULA
+DOMAIN-SUFFIX,nebula-emby.com
+
 #EMBY
 DOMAIN-KEYWORD,emby
