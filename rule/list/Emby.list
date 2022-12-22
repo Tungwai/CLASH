@@ -83,8 +83,11 @@ IP-CIDR,124.225.24.0/24,no-resolve
 #NEBULA
 DOMAIN-SUFFIX,nebula-emby.com
 
-#BAREMBY
+#O2OEMBY
 IP-CIDR,194.9.62.0/24,no-resolve
+IP-CIDR,194.87.0/24,no-resolve
+IP-CIDR,14.215.0/24,no-resolve
+IP-CIDR,14.215.0/24,no-resolve
 IP-CIDR,103.135.249.0/24,no-resolve
 IP-CIDR,14.215.163.0/24,no-resolve
 
