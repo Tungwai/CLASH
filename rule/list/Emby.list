@@ -61,6 +61,10 @@ DOMAIN-KEYWORD,embymv
 IP-CIDR,209.97.173.0/24,no-resolve
 IP-CIDR,131.186.31.0/24,no-resolve
 
+#Orange
+DOMAIN-SUFFIX,embytv.cf
+DOMAIN-SUFFIX,freeview.cc
+
 #404
 DOMAIN-SUFFIX,404.sb
 
@@ -85,7 +89,7 @@ IP-CIDR,124.225.24.0/24,no-resolve
 DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,nebula
 
-#O2OEMBY V2
+#O9OEMBY V2
 IP-CIDR,194.9.62.0/24,no-resolve
 IP-CIDR,194.87.169.0/24,no-resolve
 IP-CIDR,111.22.142.0/24,no-resolve
