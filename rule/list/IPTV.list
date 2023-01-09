@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,kamlcompany.com
 DOMAIN-SUFFIX,hellotvvod.com
 DOMAIN-SUFFIX,2456788.com
 IP-CIDR,147.135.39.0/24,no-resolve
+IP-CIDR,135.148.104.0/24,no-resolve
 IP-CIDR,51.81.0.0/16,no-resolve
 DOMAIN-KEYWORD,hellotvvod
 DOMAIN-SUFFIX,generationnexxxt.com
