@@ -1,3 +1,4 @@
 #CC
 IP-CIDR,34.80.0.0/16,no-resolve
 IP-CIDR,34.110.0.0/16,no-resolve
+IP-CIDR,35.229.0.0/16,no-resolve
