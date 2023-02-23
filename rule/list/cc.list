@@ -2,3 +2,8 @@
 IP-CIDR,34.80.0.0/16,no-resolve
 IP-CIDR,34.110.0.0/16,no-resolve
 IP-CIDR,35.229.0.0/16,no-resolve
+
+#SHT
+DOMAIN-SUFFIX,sehuatang.net
+DOMAIN-SUFFIX,sehuatang.org
+DOMAIN-KEYWORD,sehuatang
