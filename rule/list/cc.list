@@ -18,3 +18,9 @@ DOMAIN-SUFFIX,nivod3.tv
 DOMAIN-SUFFIX,mudvod.tv
 DOMAIN-KEYWORD,nivod
 DOMAIN-KEYWORD,mudvod
+
+#GAME
+DOMAIN-SUFFIX,onlinegamedaily.com
+DOMAIN-SUFFIX,wildgame.games
+DOMAIN-SUFFIX,playmods.net
+DOMAIN-KEYWORD,playmods
