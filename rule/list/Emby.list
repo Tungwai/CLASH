@@ -76,10 +76,6 @@ DOMAIN-KEYWORD,misty
 #MJJ
 DOMAIN-SUFFIX,mjjemby.org
 
-#IU
-DOMAIN-SUFFIX,mseio.com
-DOMAIN-SUFFIX,kws.moe
-
 #CATFISH
 DOMAIN-SUFFIX,catfishemby.vip
 IP-CIDR,125.124.254.0/24,no-resolve
