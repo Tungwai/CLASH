@@ -95,6 +95,8 @@ IP-CIDR,103.135.249.0/24,no-resolve
 IP-CIDR,31.14.38.0/24,no-resolve
 DOMAIN-SUFFIX,the98.ltd
 
+#jellyfin
+DOMAIN-SUFFIX,amazing910.top
 
 #EMBY
 DOMAIN-KEYWORD,emby
