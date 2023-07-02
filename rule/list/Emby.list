@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
 DOMAIN-SUFFIX,hubciddata.sandai.net
 DOMAIN-KEYWORD,mypikpak
 
+#星视界
+DOMAIN-SUFFIX,ulivetv.net
+DOMAIN,ulivetv.oss-ap-southeast-1.aliyuncs.com
+
 #plex
 DOMAIN-SUFFIX,plex.tv
 
