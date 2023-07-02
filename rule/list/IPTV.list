@@ -12,8 +12,3 @@ IP-CIDR,135.148.104.0/24,no-resolve
 IP-CIDR,51.81.0.0/16,no-resolve
 DOMAIN-KEYWORD,hellotvvod
 DOMAIN-SUFFIX,generationnexxxt.com
-
-#星视界
-DOMAIN-SUFFIX,ulivetv.net
-DOMAIN,ulivetv.oss-ap-southeast-1.aliyuncs.com
-DOMAIN-KEYWORD,ulivetv
