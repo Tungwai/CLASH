@@ -104,5 +104,8 @@ DOMAIN-SUFFIX,ju.dog
 #embyplus
 DOMAIN-SUFFIX,embyplus.org
 
+#magpie
+DOMAIN-SUFFIX,magpie.cyou
+
 #EMBY
 DOMAIN-KEYWORD,emby
