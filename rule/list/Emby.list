@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,embyplus.org
 
 #magpie
 DOMAIN-SUFFIX,magpie.cyou
+DOMAIN-KEYWORD,magpiecdn
 
 #EMBY
 DOMAIN-KEYWORD,emby
