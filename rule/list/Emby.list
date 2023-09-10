@@ -7,13 +7,16 @@ DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
 DOMAIN-SUFFIX,hubciddata.sandai.net
 DOMAIN-KEYWORD,mypikpak
 
-#星视界
+#IPTV
 DOMAIN-SUFFIX,ulivetv.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN,ulivetv.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-KEYWORD,ulivetv
 IP-CIDR,54.254.123.0/24,no-resolve
 IP-CIDR,124.168.95.0/24,no-resolve
+DOMAIN-SUFFIX,goodiptv.club
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,stream-link.online
 
 #plex
 DOMAIN-SUFFIX,plex.tv
