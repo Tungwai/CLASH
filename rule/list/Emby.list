@@ -17,6 +17,13 @@ IP-CIDR,124.168.95.0/24,no-resolve
 DOMAIN-SUFFIX,goodiptv.club
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,stream-link.online
+DOMAIN-KEYWORD,fantomtv
+IP-CIDR,62.210.99.0/24,no-resolve
+DOMAIN-SUFFIX,sports8.cc
+DOMAIN-SUFFIX,nettvpro.live
+DOMAIN-SUFFIX,isuper.tv
+IP-CIDR,62.210.114.0/24,no-resolve
+IP-CIDR,62.210.129.0/24,no-resolve
 
 #plex
 DOMAIN-SUFFIX,plex.tv
