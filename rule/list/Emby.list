@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,nettvpro.live
 DOMAIN-SUFFIX,isuper.tv
 IP-CIDR,62.210.114.0/24,no-resolve
 IP-CIDR,62.210.129.0/24,no-resolve
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,4gtv.tv
 
 #plex
 DOMAIN-SUFFIX,plex.tv
