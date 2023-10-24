@@ -17,6 +17,8 @@ DOMAIN,ulivetv.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-KEYWORD,ulivetv
 IP-CIDR,54.254.123.0/24,no-resolve
 IP-CIDR,124.168.95.0/24,no-resolve
+DOMAIN-SUFFIX,histar.tv
+DOMAIN-SUFFIX,kuaikan-play2.com
 DOMAIN-SUFFIX,goodiptv.club
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,stream-link.online
