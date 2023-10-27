@@ -32,6 +32,8 @@ IP-CIDR,62.210.129.0/24,no-resolve
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,gt2230.store
+DOMAIN-SUFFIX,dtmb-s1.cc
+DOMAIN-SUFFIX,hkdtmb.com
 
 #plex
 DOMAIN-SUFFIX,plex.tv
