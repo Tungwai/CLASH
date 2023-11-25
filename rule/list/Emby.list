@@ -46,6 +46,13 @@ DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,123emby.quest
 DOMAIN-KEYWORD,pornemby
 
+#Prisms
+DOMAIN-SUFFIX,prisms.cc
+IP-CIDR,146.19.215.0/24,no-resolve
+
+#ACA
+DOMAIN-SUFFIX,aca.best
+
 #BLACK Mountain
 DOMAIN-SUFFIX,gcx920110.com
 IP-CIDR,185.197.194.0/24,no-resolve
