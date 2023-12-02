@@ -131,12 +131,17 @@ DOMAIN-SUFFIX,amazing910.top
 #JUDOG
 DOMAIN-SUFFIX,ju.dog
 
+#magic
+DOMAIN-SUFFIX,freetz.top
+
 #embyplus
 DOMAIN-SUFFIX,embyplus.org
 
 #magpie
 DOMAIN-SUFFIX,magpie.cyou
 DOMAIN-KEYWORD,magpiecdn
+DOMAIN-KEYWORD,magpie
+DOMAIN-SUFFIX,magpie.gq
 
 #EMBY
 DOMAIN-KEYWORD,emby
