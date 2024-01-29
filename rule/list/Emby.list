@@ -148,10 +148,14 @@ DOMAIN-SUFFIX,magpie.gq
 DOMAIN-KEYWORD,emby
 
 #pilipili
-DOMAIN-KEYWORD,cfprefer3.xyz
+DOMAIN-SUFFIX,cfprefer3.xyz
 
 #reddust
-DOMAIN-KEYWORD,reddust.link
+DOMAIN-SUFFIX,reddust.link
 
 #sfc
-DOMAIN-KEYWORD,cos.cat
+DOMAIN-SUFFIX,cos.cat
+
+#tecar
+DOMAIN-SUFFIX,carlos.trade
+IP-CIDR,129.146.180.0/24,no-resolve
