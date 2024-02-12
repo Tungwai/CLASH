@@ -156,6 +156,10 @@ DOMAIN-SUFFIX,reddust.link
 #sfc
 DOMAIN-SUFFIX,cos.cat
 
+#ntrr
+DOMAIN-SUFFIX,ntrrr.top
+DOMAIN-SUFFIX,synn.cc
+
 #tecar
 DOMAIN-SUFFIX,carlos.trade
 IP-CIDR,129.146.180.0/24,no-resolve
