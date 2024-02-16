@@ -97,6 +97,8 @@ DOMAIN-KEYWORD,poloemby
 
 #PEACH
 DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,peachmv.me
+DOMAIN-KEYWORD,peachmv
 DOMAIN-KEYWORD,embymv
 IP-CIDR,209.97.173.0/24,no-resolve
 IP-CIDR,131.186.31.0/24,no-resolve
