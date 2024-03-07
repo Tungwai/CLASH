@@ -165,3 +165,4 @@ DOMAIN-SUFFIX,synn.cc
 #tecar
 DOMAIN-SUFFIX,carlos.trade
 IP-CIDR,129.146.180.0/24,no-resolve
+IP-CIDR,146.235.214.0/24,no-resolve
