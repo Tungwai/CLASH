@@ -174,3 +174,8 @@ DOMAIN-SUFFIX,synn.cc
 DOMAIN-SUFFIX,carlos.trade
 IP-CIDR,129.146.180.0/24,no-resolve
 IP-CIDR,146.235.214.0/24,no-resolve
+
+#SH
+DOMAIN-SUFFIX,cn2gias.uk
+IP-CIDR,83.147.61.152/32,no-resolve
+IP-CIDR,104.160.178.150/32,no-resolve
