@@ -184,3 +184,4 @@ IP-CIDR,104.160.178.150/32,no-resolve
 #hxd
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,sakata.one
+IP-CIDR,193.122.108.210/32,no-resolve
