@@ -186,3 +186,6 @@ IP-CIDR,104.160.178.150/32,no-resolve
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,sakata.one
 IP-CIDR,193.122.108.210/32,no-resolve
+
+#heisi
+DOMAIN-SUFFIX,nekobox.best
