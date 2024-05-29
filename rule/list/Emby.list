@@ -187,5 +187,8 @@ DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,sakata.one
 IP-CIDR,193.122.108.210/32,no-resolve
 
-#heisi
+#heisi&FY
 DOMAIN-SUFFIX,nekobox.best
+DOMAIN-SUFFIX,777777.buzz
+DOMAIN-SUFFIX,581658.best
+IP-CIDR,154.17.230.7/32,no-resolve
