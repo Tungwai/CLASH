@@ -206,3 +206,5 @@ IP-CIDR,154.17.230.7/32,no-resolve
 
 #gugu
 DOMAIN-SUFFIX,gugu.media
+DOMAIN-SUFFIX,gugumedia.site
+DOMAIN-KEYWORD,gugumedia
