@@ -118,10 +118,6 @@ IP-CIDR,209.97.173.0/24,no-resolve
 IP-CIDR,131.186.31.0/24,no-resolve
 IP-CIDR,193.123.232.0/24,no-resolve
 
-#Orange
-DOMAIN-SUFFIX,embytv.cf
-DOMAIN-SUFFIX,freeview.cc
-
 #404
 DOMAIN-SUFFIX,404.sb
 
@@ -173,6 +169,7 @@ DOMAIN-KEYWORD,happyav
 
 #sfc
 DOMAIN-SUFFIX,cos.cat
+DOMAIN-SUFFIX,shenmi.link
 
 #micu
 DOMAIN-SUFFIX,micu.hk
