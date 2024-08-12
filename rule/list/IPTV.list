@@ -1,7 +1,3 @@
-#sub
-DOMAIN-SUFFIX,122888.xyz
-DOMAIN-SUFFIX,oxycontin.cc
-
 #晴天TV
 DOMAIN-SUFFIX,weixingdianshiptv.com
 DOMAIN-SUFFIX,kamlcompany.com
@@ -12,3 +8,6 @@ IP-CIDR,135.148.104.0/24,no-resolve
 IP-CIDR,51.81.0.0/16,no-resolve
 DOMAIN-KEYWORD,hellotvvod
 DOMAIN-SUFFIX,generationnexxxt.com
+
+#TVB
+DOMAIN-KEYWORD,mytvsuper
