@@ -188,10 +188,14 @@ DOMAIN-SUFFIX,nanflix.net
 DOMAIN-KEYWORD,nanflix
 
 #mooguu
-DOMAIN-SUFFIX,kuocaidns.com
 DOMAIN-SUFFIX,mooguu.xyz
+DOMAIN-SUFFIX,ianong.cn
 DOMAIN-KEYWORD,mooguu
-DOMAIN-KEYWORD,kuocaidns
+
+
+#cbcb
+DOMAIN-SUFFIX,cbcb.lol
+DOMAIN-KEYWORD,cbcb
 
 #other
 DOMAIN-KEYWORD,supjav
