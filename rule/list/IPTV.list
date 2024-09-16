@@ -40,3 +40,10 @@ DOMAIN-SUFFIX,gt2230.store
 DOMAIN-SUFFIX,dtmb-s1.cc
 DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-KEYWORD,stream-link
+DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,4gtv.livednow.us.kg
+DOMAIN-SUFFIX,*.cdn.hinet.net
+USER-AGENT,encorehinet*
+USER-AGENT,hinet*
