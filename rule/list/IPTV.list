@@ -44,6 +44,4 @@ DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,4gtv.livednow.us.kg
-DOMAIN-SUFFIX,*.cdn.hinet.net
-USER-AGENT,encorehinet*
-USER-AGENT,hinet*
+DOMAIN-SUFFIX,cdn.hinet.net
