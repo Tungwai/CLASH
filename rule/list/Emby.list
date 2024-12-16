@@ -183,8 +183,10 @@ DOMAIN-SUFFIX,1110111.top
 
 #gugu
 DOMAIN-SUFFIX,gugu.media
+DOMAIN-SUFFIX,guguemby.site
 DOMAIN-SUFFIX,gugumedia.site
 DOMAIN-KEYWORD,gugumedia
+DOMAIN-KEYWORD,guguemby
 
 #Nanflix
 DOMAIN-SUFFIX,nanflix.net
